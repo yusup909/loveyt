@@ -16,7 +16,7 @@ YOUTUBE_URL="rtmp://a.rtmp.youtube.com/live2"  # URL de base RTMP youtube
 
 SOURCE="udp://239.255.139.0:1234"              # Source UDP (voir les annonces SAP)
 
-KEY="...."                                     # Clé à récupérer sur l'event youtube
+KEY="whwr-pqps-ywsc-jdgg-4xs7"                 # Clé à récupérer sur l'event youtube
 
 ffmpeg \
 
